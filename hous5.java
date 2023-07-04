@@ -1,3 +1,5 @@
+// К калькулятору из предыдущего дз добавить логирование.
+
 import java.util.Scanner;
 import java.util.logging.ConsoleHandler;
 import java.util.logging.Level;
