@@ -1,0 +1,91 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Task1",
+            "request": "launch",
+            "mainClass": "Task1",
+            "projectName": "Seminar_java_770b61a7"
+        },
+        {
+            "type": "java",
+            "name": "hous10",
+            "request": "launch",
+            "mainClass": "hous10",
+            "projectName": "Seminar_java_770b61a7"
+        },
+        {
+            "type": "java",
+            "name": "hous9",
+            "request": "launch",
+            "mainClass": "hous9",
+            "projectName": "Seminar_java_770b61a7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "hous1",
+            "request": "launch",
+            "mainClass": "hous1",
+            "projectName": "Seminar_java_770b61a7"
+        },
+        {
+            "type": "java",
+            "name": "hous2",
+            "request": "launch",
+            "mainClass": "hous2",
+            "projectName": "Seminar_java_770b61a7"
+        },
+        {
+            "type": "java",
+            "name": "hous3",
+            "request": "launch",
+            "mainClass": "hous3",
+            "projectName": "Seminar_java_770b61a7"
+        },
+        {
+            "type": "java",
+            "name": "hous4",
+            "request": "launch",
+            "mainClass": "hous4",
+            "projectName": "Seminar_java_770b61a7"
+        },
+        {
+            "type": "java",
+            "name": "hous5",
+            "request": "launch",
+            "mainClass": "hous5",
+            "projectName": "Seminar_java_770b61a7"
+        },
+        {
+            "type": "java",
+            "name": "hous6",
+            "request": "launch",
+            "mainClass": "hous6",
+            "projectName": "Seminar_java_770b61a7"
+        },
+        {
+            "type": "java",
+            "name": "hous7",
+            "request": "launch",
+            "mainClass": "hous7",
+            "projectName": "Seminar_java_770b61a7"
+        },
+        {
+            "type": "java",
+            "name": "hous8",
+            "request": "launch",
+            "mainClass": "hous8",
+            "projectName": "Seminar_java_770b61a7"
+        }
+    ]
+}
